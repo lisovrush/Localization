@@ -616,7 +616,7 @@ SOUL_IS_BUYED_LORE:
 - '§a▸ §a§lНажмите§7, чтобы установить'
 SOUL_IS_SELECTED: '§6§lДухи §8| §fУ вас уже §aустановлен §fданный дух'
 SOUL_RIGHT_NO_PERMISSIONS: '§6§lДухи §8| §fУстановка двух духов одновременно §cдоступна §fот привилегии %s'
-NO_PERMISSIONS: '§6§lFixMine §8| §fДанная возможность §cдоступна §fот привилегии %s'
+NO_PERMISSIONS: '§6§lCubeMix §8| §fДанная возможность §cдоступна §fот привилегии %s'
 SOUL_SELECT: '§6§lДухи §8| §fВы §aустановили §fдуха %s §fкак §e%s'
 BUY_SOUL: '§6§lДухи §8| §fВы §aкупили §fдуха %s'
 SOUL_LEVEL_1_NAME: '§cБронзовый'
@@ -650,7 +650,7 @@ SKIN_HAS_BEEN_RESET: '§6§lСкины §8| §fВы успешно §cочист
 SKIN_NAME_NOT_CORRECTED: '§6§lСкины §8| §cНеккоректный ник§f, минимальная длина ника - §a3§f, максимальная - §a16'
 SKIN_HAS_BEEN_UPDATED: '§6§lСкины §8| §fВы успешно сменили скин на §a%s'
 #ONEBLOCK
-ONEBLOCK_BOARD_NAME: ' §6§lFixMine §8» §e§lОдинБлок '
+ONEBLOCK_BOARD_NAME: ' §6§lCubeMix §8» §e§lОдинБлок '
 ONEBLOCK_BOARD_ISLAND_LINE: '   Фаза острова: §d'
 ONEBLOCK_BOARD_ACHIEVEMENTS_LINE: '   Достижения: '
 
@@ -747,7 +747,7 @@ SKYBLOCK_SHOP_LOOT: Магазин различных предметов
 SKYBLOCK_SHOP_CUSTOM: Магазин редких предметов
 
 #SURVIVAL
-SURVIVAL_BOARD_NAME: ' §6§lFixMine §8» §e§lВыживание '
+SURVIVAL_BOARD_NAME: ' §6§lCubeMix §8» §e§lВыживание '
 SURVIVAL_BOARD_DATE_LINE: '    §7'
 SURVIVAL_BOARD_GROUP_LINE: ' Группа: '
 SURVIVAL_BOARD_PROFILE_LINE: ' §e§lПрофиль:'
@@ -758,7 +758,7 @@ SURVIVAL_BOARD_MONEY_LINE: '   Монеты: §e'
 SURVIVAL_BOARD_STATS_LINE: '   У/С: §a'
 SURVIVAL_BOARD_BOOSTER_LINE: '   Бустер: §c'
 SURVIVAL_BOARD_LOCAL_ONLINE_LINE: ' Онлайн режима: §a'
-SURVIVAL_BOARD_SITE_LINE: '     §ewww.FixMine.ru'
+SURVIVAL_BOARD_SITE_LINE: '     §ewww.CubeMix.ru'
 
 SURVIVAL_MENU_ITEM_NAME: '§6§lГлавное меню §7(ПКМ)'
 SURVIVAL_MENU_ITEM_LORE:
@@ -766,7 +766,7 @@ SURVIVAL_MENU_ITEM_LORE:
 - ' §7Данное меню поможет вам'
 - ' §7ознакомиться с режимом'
 
-SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lFix§f§lMine §6§l▶'
+SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lCube§f§lMix §6§l▶'
 SURVIVAL_JOIN_SUBTITLE: '§fДобро пожаловать на §e§lвыживание'
 
 HOLOGRAM_KILLS_TOP_LINES:
@@ -807,7 +807,7 @@ JOBS_BOARD_STATS_LINE: ' §e§lСтатистика'
 MINER_TOP_HEADER: '§6§lТОП ШАХТЕРОВ'
 WOODCUTTER_TOP_HEADER: '§6§lТОП ЛЕСОРУБОВ'
 #LOBBY
-LOBBY_BOARD_NAME: '§6§lFixMine §8» §e§lХаб'
+LOBBY_BOARD_NAME: '§6§lCubeMix §8» §e§lХаб'
 LOBBY_BOARD_DATE_LINE: '    §7'
 LOBBY_BOARD_GROUP_LINE: ' Группа: '
 LOBBY_BOARD_PROFILE_LINE: ' §e§lПрофиль:'
@@ -817,9 +817,9 @@ LOBBY_BOARD_GOLD_LINE: '   Золото: §6'
 LOBBY_BOARD_PRESENTS_LINE: '   Подарки: '
 LOBBY_BOARD_BOOSTER_LINE: ' Активный бустер: §c'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
-LOBBY_BOARD_SITE_LINE: '     §ewww.FixMine.ru'
+LOBBY_BOARD_SITE_LINE: '     §ewww.CubeMix.ru'
 
-LOBBY_JOIN_TITLE: '§6§l◀ §6§lFix§f§lMine §6§l▶'
+LOBBY_JOIN_TITLE: '§6§l◀ §6§lCube§f§lMix §6§l▶'
 LOBBY_JOIN_SUBTITLE: '§fВесеннее обновление!'
 
 PROFILE_ITEM_NAME: '§6§lПрофиль %s §7(ПКМ)'
@@ -946,7 +946,7 @@ BOXES_DONATE_LORE:
 - §8  ▪ §d§lАРЕС
 - §8  ▪ §4§lХРОНОС
 - ''
-- §a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru
+- §a▸ §a§lПокупка §7на сайте §ewww.CubeMix.ru
 BOXES_COINS_NAME: '§6§lКейс с крышками'
 BOXES_COINS_LORE:
 - ''
@@ -970,7 +970,7 @@ BOXES_COINS_LORE:
 - '§8  ▪ §6200 §fкрышек'
 - '§8  ▪ §6250 §fкрышек'
 - ''
-- '§a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru'
+- '§a▸ §a§lПокупка §7на сайте §ewww.CubeMix.ru'
 
 BOXES_TITULS_NAME: '§d§lКейс с титулами'
 BOXES_TITULS_LORE:
@@ -1004,7 +1004,7 @@ BOXES_TITULS_LORE:
 - '§8  ▪ §fТитул: §c§l§nДэдпул§e ✭✭✭✭✭'
 - '§8  ▪ §fТитул: §4§l§nМарвел!§e ✭✭✭✭✭'
 - ''
-- '§a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru'
+- '§a▸ §a§lПокупка §7на сайте §ewww.CubeMix.ru'
 
 BOXES_GOLD_NAME: '§e§lКейс с золотом'
 BOXES_GOLD_LORE:
@@ -1029,7 +1029,7 @@ BOXES_GOLD_LORE:
 - '§8  ▪ §e5000 §fзолота'
 - '§8  ▪ §e10000 §fзолота'
 - ''
-- '§a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru'
+- '§a▸ §a§lПокупка §7на сайте §ewww.CubeMix.ru'
 BOXES_SOULS_NAME: '§c§lКейс с духами'
 BOXES_SOULS_LORE:
 - ''
@@ -1053,7 +1053,7 @@ BOXES_SOULS_LORE:
 - '§8  ▪ §fДух: §cРегенерация'
 - '§8  ▪ §fДух: §9Ночное зрение'
 - ''
-- '§a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru'
+- '§a▸ §a§lПокупка §7на сайте §ewww.CubeMix.ru'
 
 BOXES_SURVIVAL_ITEMS_NAME: '§a§lКейс с предметами'
 BOXES_SURVIVAL_ITEMS_LORE:
@@ -1082,7 +1082,7 @@ BOXES_SURVIVAL_ITEMS_LORE:
 - ' §8▪ §dХорус §ax32'
 - ' §8▪ §aТотем §ax1'
 - ''
-- §a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru
+- §a▸ §a§lПокупка §7на сайте §ewww.CubeMix.ru
 BOXES_SURVIVAL_MONEY_NAME: '§d§lКейс с монетами'
 BOXES_SURVIVAL_MONEY_LORE:
 - ''
@@ -1107,7 +1107,7 @@ BOXES_SURVIVAL_MONEY_LORE:
 - ' §8▪ §f30000§6⛂'
 - ' §8▪ §f50000§6⛂'
 - ''
-- §a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru
+- §a▸ §a§lПокупка §7на сайте §ewww.CubeMix.ru
 
 BOXES_ONEBLOCK_ITEMS_NAME: '§a§lКейс с предметами'
 BOXES_ONEBLOCK_ITEMS_LORE:
@@ -1136,7 +1136,7 @@ BOXES_ONEBLOCK_ITEMS_LORE:
 - ' §8▪ §dХорус §ax32'
 - ' §8▪ §aТотем §ax1'
 - ''
-- §a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru
+- §a▸ §a§lПокупка §7на сайте §ewww.CubeMix.ru
 BOXES_ONEBLOCK_MONEY_NAME: '§d§lКейс с монетами'
 BOXES_ONEBLOCK_MONEY_LORE:
 - ''
@@ -1161,8 +1161,8 @@ BOXES_ONEBLOCK_MONEY_LORE:
 - ' §8▪ §f30000§6⛂'
 - ' §8▪ §f50000§6⛂'
 - ''
-- §a▸ §a§lПокупка §7на сайте §ewww.FixMine.ru
-BOXES_NO_KEYS: '§6§lКейсы §8| §fУ вас §cнет §fключей от данного кейса, купите на сайте §ewww.FixMine.ru'
+- §a▸ §a§lПокупка §7на сайте §ewww.CubeMix.ru
+BOXES_NO_KEYS: '§6§lКейсы §8| §fУ вас §cнет §fключей от данного кейса, купите на сайте §ewww.CubeMix.ru'
 BOXES_REWARD_COINS_TITLE: '§6§l%s §fкрышек'
 BOXES_REWARD_GOLD_TITLE: '§e§l%s §fзолота'
 BOXES_REWARD_ITEMS_TITLE: '%s'
@@ -2725,11 +2725,11 @@ TIME_MONEY_TITLE: '§6§lДонатерская зарплата'
 TIME_MONEY_SUBTITLE: '§fВы заработали §e%s§6⛂ §fза §aчас §fигры'
 LOBBY_JOIN_MESSAGE:
 - '§8§m -------------------------------------------'
-- '      §fДобро пожаловать на §6§lＦｉｘ§e§lＭｉｎｅ'
+- '      §fДобро пожаловать на §6§lＣｕｂｅ§e§lＭｉｘ'
 - ''
 - '§a❃ §fБеги вперед и выбирай режим для игры'
 - '§d❃ §fКликни по компасу, чтобы узнать больше'
 - '§b❃ §fПосмотри свой профиль, нажми на голову'
 - ''
-- '  §9[vk.com/fixmine_ru] §8- §b[discord.fixmine.ru]'
+- '  §9[vk.com/cubemixru] §8- §b[discord.cubemix.ru]'
 - '§8§m -------------------------------------------'
