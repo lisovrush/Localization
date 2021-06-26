@@ -860,9 +860,9 @@ PRESENTS_COMPLETE_TITLE: '§6§lПоздравляем!'
 PRESENTS_COMPLETE_SUBTITLE: '§fВы отыскали §aвсе §fновогодние подарки'
 BOSS_BAR_LOBBY:
 - '    §f§lВЕСЕННИЕ §c§lСКИДКИ! §f§lВСЕ ЦЕНЫ БЫЛИ §a§lСНИЖЕНЫ §f§lНА §6§l30%%'
-- '    §f§lПОКУПКА §e§lДОНАТА §f§lНА САЙТЕ §7► §6§lFIXMINE.RU'
-- '    §9§lDISCORD §f§lСЕРВЕРА §7► §d§lDISCORD.FIXMINE.RU'
-- '    §f§lГРУППА СЕРВЕРА §9§lВКОНТАКТЕ §7► §b§lVK.COM/FIXMINE_RU'
+- '    §f§lПОКУПКА §e§lДОНАТА §f§lНА САЙТЕ §7► §6§lCUBEMIX.RU'
+- '    §9§lDISCORD §f§lСЕРВЕРА §7► §d§lDISCORD.CUBEMIX.RU'
+- '    §f§lГРУППА СЕРВЕРА §9§lВКОНТАКТЕ §7► §b§lVK.COM/CUBEMIXRU'
 HOLOGRAM_LEVEL_TOP_LINES:
 - '§8§l« §d§lТоп по уровням §8§l»'
 - '§fСамые прокаченные игроки'
