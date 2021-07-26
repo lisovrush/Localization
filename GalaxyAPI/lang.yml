@@ -1777,7 +1777,7 @@ PTIME_GUI_NAME: Смена личного времени
 PWEATHER_GUI_NAME: Смена личной погоды
 PWEATHER_CHANGE: '§6§lAVI§e§lFORCE§7§l: §fВы установили персональную погоду: §a%s'
 PTIME_ITEM_RESET_NAME: §aОбнулить время
-PTIME_ITEM_RESET_LORE:'
+PTIME_ITEM_RESET_LORE:
 - ''
 - §7Установить серверное время
 - ''
