@@ -747,7 +747,7 @@ SKYBLOCK_SHOP_LOOT: Магазин различных предметов
 SKYBLOCK_SHOP_CUSTOM: Магазин редких предметов
 
 #SURVIVAL
-SURVIVAL_BOARD_NAME: ' §8§l» §6§lAviForce §e§lГриферский '
+SURVIVAL_BOARD_NAME: ' §8§l» §6§lAviForce §e§lГриф-1 '
 SURVIVAL_BOARD_DATE_LINE: '    §7'
 SURVIVAL_BOARD_GROUP_LINE: ' Группа: '
 SURVIVAL_BOARD_PROFILE_LINE: ' §e§lПрофиль:'
@@ -758,7 +758,7 @@ SURVIVAL_BOARD_MONEY_LINE: '   Монеты: §e'
 SURVIVAL_BOARD_STATS_LINE: '   У/С: §a'
 SURVIVAL_BOARD_BOOSTER_LINE: '   Бустер: §c'
 SURVIVAL_BOARD_LOCAL_ONLINE_LINE: ' Онлайн режима: §a§l✓§a'
-SURVIVAL_BOARD_SITE_LINE: '     §awww.AviForce.fun'
+SURVIVAL_BOARD_SITE_LINE: '   §awww.AviForce.fun'
 
 SURVIVAL_MENU_ITEM_NAME: '§6§lГлавное меню §7(ПКМ)'
 SURVIVAL_MENU_ITEM_LORE:
@@ -817,7 +817,7 @@ LOBBY_BOARD_GOLD_LINE: '   Золото: §6'
 LOBBY_BOARD_PRESENTS_LINE: '   Подарки: '
 LOBBY_BOARD_BOOSTER_LINE: ' Активный бустер: §c'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
-LOBBY_BOARD_SITE_LINE: '     §awww.AviForce.fun'
+LOBBY_BOARD_SITE_LINE: '   §awww.AviForce.fun'
 
 LOBBY_JOIN_TITLE: '§6§lᑅ §6§lAVI§e§lFORCE §6§lᑀ'
 LOBBY_JOIN_SUBTITLE: '§fДобро пожаловать, выбирайте режим!'
