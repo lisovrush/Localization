@@ -1411,8 +1411,7 @@ PLAYER_WARP_ITEM_EMPTY_LORE:
 - §7нет доступных публичных варпов
 - §7или они отсутствуют вовсе
 WARP_INFO_FORMAT: '§6§lAVI§e§lFORCE§7§l: §fУкажите §cназвание варпа §f- §a/warpinfo [название]'
-WARPINFO: §6§lAVI§e§lFORCE§7§l: §fИнформация о варпе §c%s§f, владелец - %s§f, дата создания
-  - §a%s
+WARPINFO: '§6§lAVI§e§lFORCE§7§l: §fИнформация о варпе §c%s§f, владелец - %s§f, дата создания - §a%s'
 HOVER_MESSAGE_CHAT:
 - §fНажмите сюда, чтобы написать
 - §fигроку %s §fв лс
