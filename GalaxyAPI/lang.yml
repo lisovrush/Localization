@@ -747,16 +747,16 @@ SKYBLOCK_SHOP_LOOT: Магазин различных предметов
 SKYBLOCK_SHOP_CUSTOM: Магазин редких предметов
 
 #SURVIVAL
-SURVIVAL_BOARD_NAME: ' §6§lAVI§f§lFORCE §8⚔ §6§lГРИФ-1 '
+SURVIVAL_BOARD_NAME: ' §6§lᑀ §6§lAVI§e§lFORCE §e§lᑅ '
 SURVIVAL_BOARD_DATE_LINE: '    §7'
 SURVIVAL_BOARD_GROUP_LINE: ' Группа: '
-SURVIVAL_BOARD_PROFILE_LINE: ' §e§lПрофиль:'
-SURVIVAL_BOARD_LEVEL_LINE: '   Уровень: §d'
-SURVIVAL_BOARD_COINS_LINE: '   Юниты: §d'
-SURVIVAL_BOARD_GOLD_LINE: '   Золото: §6'
-SURVIVAL_BOARD_MONEY_LINE: '   Монеты: §e'
-SURVIVAL_BOARD_STATS_LINE: '   У/С: §a'
-SURVIVAL_BOARD_BOOSTER_LINE: '   Бустер: §c'
+SURVIVAL_BOARD_PROFILE_LINE: ' §6§lИнформация§7:'
+SURVIVAL_BOARD_LEVEL_LINE: '§6§l┏ Уровень: §7★'
+SURVIVAL_BOARD_COINS_LINE: '§6§l┃ Юниты: §d§l☄§d'
+SURVIVAL_BOARD_GOLD_LINE: '§6§l┃ Золото: §e✰§6'
+SURVIVAL_BOARD_MONEY_LINE: '§6§l┃ Монеты: §e⛂§e'
+SURVIVAL_BOARD_STATS_LINE: '§6§l┃ У/С: §2⚔§a'
+SURVIVAL_BOARD_BOOSTER_LINE: '§6§l┗ Бустер: §c'
 SURVIVAL_BOARD_LOCAL_ONLINE_LINE: ' Онлайн режима: §a§l✓§a'
 SURVIVAL_BOARD_SITE_LINE: '   §awww.AviForce.fun'
 
