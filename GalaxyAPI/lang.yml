@@ -809,7 +809,7 @@ WOODCUTTER_TOP_HEADER: '§a§lТОП ЛЕСОРУБОВ'
 #LOBBY
 LOBBY_BOARD_NAME: '§6§lᑀ §6§lAVI§e§lFORCE §e§lᑅ'
 LOBBY_BOARD_DATE_LINE: '  §7'
-LOBBY_BOARD_GROUP_LINE: ' Группа: '
+LOBBY_BOARD_GROUP_LINE: ' Ранг: '
 LOBBY_BOARD_PROFILE_LINE: ' §6╔ §e§lСТАТИСТИКА:'
 LOBBY_BOARD_LEVEL_LINE: ' §6╠ §fУровень: §d'
 LOBBY_BOARD_COINS_LINE: ' §6╠ §fЮниты: §b'
@@ -817,20 +817,20 @@ LOBBY_BOARD_GOLD_LINE: ' §6╠ §fЗолото: §6'
 LOBBY_BOARD_PRESENTS_LINE: ' §6╚ §fПодарки: '
 LOBBY_BOARD_BOOSTER_LINE: ' Активный бустер: §c'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
-LOBBY_BOARD_SITE_LINE: '§6§lᑀ §fСайт: §6§lwww.AviForce.fun'
+LOBBY_BOARD_SITE_LINE: '§c➦ §fСайт: §6§lwww.AviForce.fun'
 
 LOBBY_JOIN_TITLE: '§6§lᑀ §6§lAVI§e§lFORCE §e§lᑅ'
 LOBBY_JOIN_SUBTITLE: '§fДобро пожаловать, выбирайте режим!'
 
-PROFILE_ITEM_NAME: '§6§lПрофиль %s §7(ПКМ)'
+PROFILE_ITEM_NAME: '§b§lПрофиль %s §7(ПКМ)'
 PROFILE_ITEM_LORE:
 - ''
 - '§7Нажмите ПКМ, чтобы посмотреть ваш профиль'
-SELECTOR_MENU_ITEM_NAME: '§6§lВыбор режима §7(ПКМ)'
+SELECTOR_MENU_ITEM_NAME: '§a§lВыбор режима §7(ПКМ)'
 SELECTOR_MENU_ITEM_LORE:
 - ''
 - '§7Выберите интересный вам режим для игры'
-DONATE_MENU_ITEM_NAME: '§a§lДонат §7(ПКМ)'
+DONATE_MENU_ITEM_NAME: '§6§lДонат §7(ПКМ)'
 DONATE_MENU_ITEM_LORE:
 - ''
 - '§7Узнайте больше о донат-услугах сервера'
